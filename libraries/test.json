@@ -1,0 +1,10 @@
+{
+    "name": "test",
+    "desc": "test",
+    "games": {
+        "test2": {
+            "url": "C:/Users/Степан/Desktop/TurboLaucher/README.md",
+            "desc": ""
+        }
+    }
+}
